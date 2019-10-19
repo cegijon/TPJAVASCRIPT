@@ -81,3 +81,21 @@ console.log("Cantidad de personas:" + " " + cantidadDePersonas)
 cantidadDePersonas *= 2
 
 console.log("Cantidad de personas:" + " " + cantidadDePersonas)
+
+// JS35
+
+let numeroDeCliente = 143245
+
+let numeroDeClienteIngresado = '143245'
+
+console.log(numeroDeCliente == numeroDeClienteIngresado)
+
+console.info("El número ingresado por el cliente es correcto: true")
+
+console.log(numeroDeCliente === numeroDeClienteIngresado)
+
+console.info("El cliente ingresó un número de cliente válido: false")
+
+
+
+
